@@ -37,10 +37,10 @@ A comprehensive solution for small businesses to manage operations efficiently a
 
 ---
 
-## 📬 Contact
+## 📬 Contact And Porfolio
 
-- **Email:** [Email me!](blue.shirt.studios101@gmail.com)
-- **GitHub:** [BlueShirtStudios](https://github.com/BlueShirtStudios)
+- **Email:** blue.shirt.studios101@gmail.com
+- **GitHub:** https://github.com/BlueShirtStudios
 
 ---
 
