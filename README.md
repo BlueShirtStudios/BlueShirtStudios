@@ -8,13 +8,14 @@
 
 Hi! I’m the founder and sole developer behind **BlueShirtStudios**—an indie software studio with a simple but bold mission:  
 **To empower new and upcoming entrepreneurs by building affordable, high-quality software that helps their ideas thrive.**
-
+That mission is what drives me to deliver on all my projects. I have a passion for coding and would love to able to help people
+with it.
 ---
 
 ## 🛠️ Skills & Technologies
 
-- Legacy Systems: Delphi
 - Modern Development: Python, C++, Web Development (HTML, CSS, JS)
+- Legacy Systems: Delphi
 
 ---
 
