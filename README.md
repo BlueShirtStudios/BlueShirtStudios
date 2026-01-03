@@ -34,13 +34,13 @@ I’m deeply passionate about coding, problem-solving, and helping others bring 
 
 ## 🚀 Featured Projects
 
-### 🎮 [**ALT — AI Assistant for Subnautica**](https://github.com/BlueShirtStudios/Subnautica_Assitant)
+### [**ALT — AI Assistant for Subnautica**](https://github.com/BlueShirtStudios/Subnautica_Assitant)
 > An intelligent companion that helps players explore, survive, and master the depths of *Subnautica*.  
 >  *Smart, responsive, and built to enhance your gameplay experience.*
 
 ---
 
-### 🧹 [**CleanSweep — Business Management App**](https://github.com/BlueShirtStudios/CleanSweep)
+### [**CleanSweep — Business Management App**](https://github.com/BlueShirtStudios/CleanSweep)
 > A clean, efficient management tool designed for small businesses.  
 >  *Helping entrepreneurs stay organized, productive, and focused — without breaking the bank.*
 
