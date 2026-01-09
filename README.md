@@ -8,10 +8,9 @@
 ## 👔 Welcome
 Building software and technological solutions are part of my passion. Finding a problem and transforming it into a solution
 is part of the game. I'm the founder of **Blue Shirt Studios**, an indie studio that will provide anyone with technological
-solutions. If you have a "side-hustle", let us make it more than a side hustle.
-
-If I can inpire people to follow through with their dreams, then I did enough. 
+solutions. If you have a "side-hustle", let us make it more than a side hustle. If I can inpire people to follow through with their dreams, then I did enough. 
 **"An act of goodwill always sparks another"** - Klaus.
+
 ---
 
 ## 🛠️ Skills & Technologies
