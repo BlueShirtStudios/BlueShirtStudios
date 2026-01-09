@@ -5,15 +5,13 @@
 
 ---
 
-## 👋 Welcome!
+## 👔 Welcome
+Building software and technological solutions are part of my passion. Finding a problem and transforming it into a solution
+is part of the game. I'm the founder of **Blue Shirt Studios**, an indie studio that will provide anyone with technological
+solutions. If you have a "side-hustle", let us make it more than a side hustle.
 
-I’m the founder behind **BlueShirtStudios** — an indie studio built on passion, creativity, and the drive to **turn ideas into reality**.  
-
-My mission is simple but powerful:  
->  **Empower new and upcoming entrepreneurs by creating affordable, high-quality software that helps their ideas thrive.**
-
-I’m deeply passionate about coding, problem-solving, and helping others bring their visions to life through technology.
-
+If I can inpire people to follow through with their dreams, then I did enough. 
+**"An act of goodwill always sparks another"** - Klaus.
 ---
 
 ## 🛠️ Skills & Technologies
@@ -28,7 +26,7 @@ I’m deeply passionate about coding, problem-solving, and helping others bring 
 </p>
 
 **Other Tools:**  
- Git | SQLite | VS Code | Figma | GitHub Projects | PostGres
+ Git | SQLite | Figma | GitHub Projects | PostGres | Old School Pen and Paper
 
 ---
 
@@ -42,13 +40,13 @@ I’m deeply passionate about coding, problem-solving, and helping others bring 
 
 ### [**CleanSweep — Business Management App**](https://github.com/BlueShirtStudios/CleanSweep)
 > A clean, efficient management tool designed for small businesses.  
->  *Helping entrepreneurs stay organized, productive, and focused — without breaking the bank.*
+>  *Helping entrepreneurs stay organized, productive, and focused.*
 
 ---
 
 ## 💡 Why BlueShirtStudios?
 
--  **Solo Founder:** Every line of code, every design — built by me.  
+-  **Attension to Details:** Every line of code, every design is built to meet industry standards.  
 -  **Entrepreneur-Focused:** I create tools that empower startups and dreamers.  
 -  **Vision:** To become the go-to indie studio for *accessible, custom-built software solutions.*
 
@@ -63,4 +61,4 @@ I’m deeply passionate about coding, problem-solving, and helping others bring 
 
 ---
 
-<h3 align="center">“Making your "side-huslte" a reality.”</h3>
+<h3 align="center">“Making your "side-huslte" more than just a "side-hustle.”</h3>
