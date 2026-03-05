@@ -1,14 +1,12 @@
 <!-- 👔 BlueShirtStudios GitHub Profile README -->
 
 <h1 align="center">👔 BlueShirtStudios</h1>
-<h3 align="center"> Indie Dev Studio |  Computer Science Student |  One-Man Dream Team</h3>
+<h3 align="center"> Aspiring Backend Engineer |  Computer Science Student |  System Designer</h3>
 
 ---
 
 ## 👔 Welcome
-Building software and technological solutions are part of my passion. Finding a problem and transforming it into a solution
-is part of the game. I'm the founder of **Blue Shirt Studios**, an indie studio that will provide anyone with technological
-solutions. If you have a "side-hustle", let us make it more than a side hustle. If I can inpire people to follow through with their dreams, then I did enough. 
+Patience is needed no matter on which level of software you work on. I have a deep understanding and love for computers and software. I base my projects of fields of interest that keeps me up to date with the current development enviroment. Living by a simple motto to get my thorugh this life: 
 **"An act of goodwill always sparks another"** - Klaus.
 
 ---
@@ -23,13 +21,14 @@ solutions. If you have a "side-hustle", let us make it more than a side hustle. 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Delphi-E62431?style=for-the-badge&logo=delphi&logoColor=white"/>
 </p>
-
-**Other Tools:**  
- Git | SQLite | Figma | GitHub Projects | PostGres | Old School Pen and Paper
-
 ---
 
 ## 🚀 Featured Projects
+### [**Gemimi Agent Framework — Prebuilt Framework**](https://github.com/BlueShirtStudios/Gemini_Orchestra_Framework)
+> A framework that allows from elementary up to complex multi agent setups ypou can use in projects.  
+>  *Easiing the process of intergrating AI into your projects when needed.*
+
+---
 
 ### [**ALT — AI Assistant for Subnautica**](https://github.com/BlueShirtStudios/Subnautica_Assitant)
 > An intelligent companion that helps players explore, survive, and master the depths of *Subnautica*.  
@@ -43,14 +42,6 @@ solutions. If you have a "side-hustle", let us make it more than a side hustle. 
 
 ---
 
-## 💡 Why BlueShirtStudios?
-
--  **Attension to Details:** Every line of code, every design is built to meet industry standards.  
--  **Entrepreneur-Focused:** I create tools that empower startups and dreamers.  
--  **Vision:** To become the go-to indie studio for *accessible, custom-built software solutions.*
-
----
-
 ## 📬 Connect With Me
 
 <p align="center">
@@ -60,4 +51,3 @@ solutions. If you have a "side-hustle", let us make it more than a side hustle. 
 
 ---
 
-<h3 align="center">“Making your "side-huslte" more than just a "side-hustle.”</h3>
