@@ -1,13 +1,14 @@
 <!-- 👔 BlueShirtStudios GitHub Profile README -->
 
 <h1 align="center">👔 BlueShirtStudios</h1>
-<h3 align="center"> Aspiring Backend Engineer |  Computer Science Student |  System Designer</h3>
+<h3 align="center"> Aspiring Backend Engineer |  Computer Science Student |  System Designer | Embedded Systems</h3>
 
 ---
 
 ## 👔 Welcome
-Patience is needed no matter on which level of software you work on. I have a deep understanding and love for computers and software. I base my projects of fields of interest that keeps me up to date with the current development enviroment. Living by a simple motto to get my thorugh this life: 
-**"An act of goodwill always sparks another"** - Klaus.
+Patience is needed no matter what level of software you work on. I have a deep understanding of and love for computers and software. I base my projects on fields of interest that keep me up to date with the current development environment, living by a simple motto to get through the ever-evolving tech industry: **"An act of goodwill always sparks another"**. 
+
+That is why all the projects I work on are open-source. Various repositories I came across inspired me to build my own tools or recreate similar frameworks to test my skills. This is how we help and inspire one another in the wild seas of the computer world.
 
 ---
 
@@ -16,29 +17,38 @@ Patience is needed no matter on which level of software you work on. I have a de
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Delphi-E62431?style=for-the-badge&logo=delphi&logoColor=white"/>
 </p>
+
 ---
 
 ## 🚀 Featured Projects
-### [**Gemimi Agent Framework — Prebuilt Framework**](https://github.com/BlueShirtStudios/Gemini_Orchestra_Framework)
-> A framework that allows from elementary up to complex multi agent setups ypou can use in projects.  
->  *Easiing the process of intergrating AI into your projects when needed.*
+
+### [**Plug-and-Play Library — Universal Document Handler**](https://github.com/BlueShirtStudios/Plug-and-Play_Library)
+> A standalone library providing universal parsing support for structured data.
+> *Recursive schema discovery for JSONL, CSV, and PDF formats to streamline data workflows.*
+
+---
+
+### [**Gemini Agent Framework — Prebuilt Framework**](https://github.com/BlueShirtStudios/Gemini_Orchestra_Framework)
+> A framework that allows for everything from elementary to complex multi-agent setups you can use in your applications.  
+> *Easing the process of integrating AI orchestration into your projects when needed.*
 
 ---
 
 ### [**ALT — AI Assistant for Subnautica**](https://github.com/BlueShirtStudios/Subnautica_Assitant)
 > An intelligent companion that helps players explore, survive, and master the depths of *Subnautica*.  
->  *Smart, responsive, and built to enhance your gameplay experience.*
+> *Smart, responsive, and built to enhance the overall gameplay experience.*
 
 ---
 
 ### [**CleanSweep — Business Management App**](https://github.com/BlueShirtStudios/CleanSweep)
 > A clean, efficient management tool designed for small businesses.  
->  *Helping entrepreneurs stay organized, productive, and focused.*
+> *Helping entrepreneurs stay organized, productive, and focused.*
 
 ---
 
@@ -50,4 +60,3 @@ Patience is needed no matter on which level of software you work on. I have a de
 </p>
 
 ---
-
