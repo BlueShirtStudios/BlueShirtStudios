@@ -28,21 +28,21 @@ All the projects I work on are open-source. Various repositories I came across i
 ## 🚀 Featured Projects
 
 ### [**Plug-and-Play Library — Universal Document Handler**](https://github.com/BlueShirtStudios/Plug-and-Play_Library)
-> *Stack:* Python.  
+> **Stack: Python.**  
 > A standalone library providing universal parsing support for structured data.  
 > *Recursive schema discovery for JSONL, CSV, and PDF formats to streamline data workflows.*
 
 ---
 
 ### [**Gemini Agent Framework — Prebuilt Framework**](https://github.com/BlueShirtStudios/Gemini_Orchestra_Framework)
-> *Stack:* Python, Plug-and-Play Library, Google Gemini API.  
+> **Stack: Python, Plug-and-Play Library, Google Gemini API.**   
 > A framework that allows for everything from elementary to complex multi-agent setups you can use in your applications.  
 > *Easing the process of integrating AI orchestration into your projects when needed.*
 
 ---
 
 ### [**BattleShip Library — Ease of Creating Games**](https://github.com/BlueShirtStudios/BattleShip_Library)
-> *Stack:* C#, DotNet.  
+> **Stack: C#, DotNet.**  
 > Easy to deploy battleship logic that you can customize to your liking.  
 > *Create your own take on the battle game we all love.*
 
