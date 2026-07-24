@@ -1,6 +1,13 @@
 <!-- 👔 BlueShirtStudios GitHub Profile README -->
 <h1 align="center">👔 BlueShirtStudios</h1>
-<h3 align="center">Aspiring Backend Engineer | Computer Science Student | Systems &amp; Embedded Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Aspiring+Backend+Engineer;Computer+Science+Student;Systems+%26+Embedded+Enthusiast;Building+in+the+open%2C+one+repo+at+a+time" alt="Typing SVG"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BlueShirtStudios&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile views"/>
+</p>
 
 ---
 
@@ -31,7 +38,7 @@ I'm a Computer Science student focused on backend engineering, systems design, a
 ### [**Plug-and-Play Library — Universal Document Handler**](https://github.com/BlueShirtStudios/Plug-and-Play_Library)
 > A standalone library providing universal parsing support for structured data, with recursive schema discovery for JSONL, CSV, and PDF formats.
 >
-> **Built with:** C#
+> **Built with:** Python
 
 ---
 
@@ -45,7 +52,7 @@ I'm a Computer Science student focused on backend engineering, systems design, a
 ### [**ALT — AI Assistant for Subnautica**](https://github.com/BlueShirtStudios/Subnautica_Assitant)
 > An intelligent companion that helps players explore, survive, and master the depths of *Subnautica*.
 >
-> **Built with:** C#
+> **Built with:** Python
 
 ---
 
@@ -63,6 +70,14 @@ I'm a Computer Science student focused on backend engineering, systems design, a
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueShirtStudios&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlueShirtStudios&hide_border=true&theme=default" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BlueShirtStudios&theme=flat&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+</p>
+
 ---
 
 ## 📬 Connect With Me
@@ -70,4 +85,8 @@ I'm a Computer Science student focused on backend engineering, systems design, a
 <p align="center">
   <a href="mailto:blue.shirt.studios101@gmail.com"><img src="https://img.shields.io/badge/Email-blue.shirt.studios101@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/BlueShirtStudios"><img src="https://img.shields.io/badge/GitHub-BlueShirtStudios-181717?style=for-the-badge&logo=github"/></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=120&section=footer" alt="footer wave"/>
 </p>
