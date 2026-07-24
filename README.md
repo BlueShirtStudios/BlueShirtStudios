@@ -1,14 +1,14 @@
 <!-- 👔 BlueShirtStudios GitHub Profile README -->
-
 <h1 align="center">👔 BlueShirtStudios</h1>
-<h3 align="center"> Aspiring Backend Engineer |  Computer Science Student |  System Designer | Embedded Systems</h3>
+<h3 align="center">Aspiring Backend Engineer | Computer Science Student | Systems &amp; Embedded Enthusiast</h3>
 
 ---
 
 ## 👔 Welcome
-Patience is needed no matter what level of software you work on. I have a deep understanding of and love for computers and software. I base my projects on fields of interest that keep me up to date with the current development environment, living by a simple motto to get through the ever-evolving tech industry: **"An act of goodwill always sparks another"**. 
 
-That is why all the projects I work on are open-source. Various repositories I came across inspired me to build my own tools or recreate similar frameworks to test my skills. This is how we help and inspire one another in the wild seas of the computer world.
+I'm a Computer Science student focused on backend engineering, systems design, and embedded systems. I build most of my projects in the open — partly to sharpen my own skills, and partly because the tools and repos I've learned from were open too, and I'd like to pay that forward.
+
+**Fun fact:** my personal motto is *"an act of goodwill always sparks another"* — which is really just a fancy way of saying I like open-source.
 
 ---
 
@@ -29,26 +29,39 @@ That is why all the projects I work on are open-source. Various repositories I c
 ## 🚀 Featured Projects
 
 ### [**Plug-and-Play Library — Universal Document Handler**](https://github.com/BlueShirtStudios/Plug-and-Play_Library)
-> A standalone library providing universal parsing support for structured data.
-> *Recursive schema discovery for JSONL, CSV, and PDF formats to streamline data workflows.*
+> A standalone library providing universal parsing support for structured data, with recursive schema discovery for JSONL, CSV, and PDF formats.
+>
+> **Built with:** C#
 
 ---
 
 ### [**Gemini Agent Framework — Prebuilt Framework**](https://github.com/BlueShirtStudios/Gemini_Orchestra_Framework)
-> A framework that allows for everything from elementary to complex multi-agent setups you can use in your applications.  
-> *Easing the process of integrating AI orchestration into your projects when needed.*
+> A framework for building multi-agent AI setups, from simple single-agent tasks to complex orchestrated pipelines.
+>
+> **Built with:** Python
 
 ---
 
 ### [**ALT — AI Assistant for Subnautica**](https://github.com/BlueShirtStudios/Subnautica_Assitant)
-> An intelligent companion that helps players explore, survive, and master the depths of *Subnautica*.  
-> *Smart, responsive, and built to enhance the overall gameplay experience.*
+> An intelligent companion that helps players explore, survive, and master the depths of *Subnautica*.
+>
+> **Built with:** C#
 
 ---
 
 ### [**CleanSweep — Business Management App**](https://github.com/BlueShirtStudios/CleanSweep)
-> A clean, efficient management tool designed for small businesses.  
-> *Helping entrepreneurs stay organized, productive, and focused.*
+> A clean, efficient management tool designed to help small businesses stay organized and productive.
+>
+> **Built with:** Delphi
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BlueShirtStudios&show_icons=true&theme=default&hide_border=true" alt="BlueShirtStudios GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueShirtStudios&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
+</p>
 
 ---
 
@@ -58,5 +71,3 @@ That is why all the projects I work on are open-source. Various repositories I c
   <a href="mailto:blue.shirt.studios101@gmail.com"><img src="https://img.shields.io/badge/Email-blue.shirt.studios101@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/BlueShirtStudios"><img src="https://img.shields.io/badge/GitHub-BlueShirtStudios-181717?style=for-the-badge&logo=github"/></a>
 </p>
-
----
