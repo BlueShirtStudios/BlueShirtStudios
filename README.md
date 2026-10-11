@@ -22,21 +22,14 @@ All the projects I work on are open-source. Various repositories I came across i
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Delphi-E62431?style=for-the-badge&logo=delphi&logoColor=white" alt="Delphi" />
-</p>
-
-### 🛢️ Databases
-<p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-</p>
-
-### ⚙️ Frameworks & Ecosystem
-<p align="center">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/.NET%20Aspire-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Aspire" />
 </p>
-## 🚀 Featured Projects
+
+### 🚀 Featured Projects
 
 ### [**Visualize Object Orientated Programming — Understand Objects**](https://github.com/BlueShirtStudios/BattleShip_Library)
 > **Stack: C#, DotNet, WPF, XAML, Microsoft Graph Library.**  
