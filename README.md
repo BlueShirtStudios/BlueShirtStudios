@@ -11,7 +11,7 @@ All the projects I work on are open-source. Various repositories I came across i
 
 ---
 
-### 💻 Languages
+## 💻 Skills and Technologies
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
@@ -29,7 +29,8 @@ All the projects I work on are open-source. Various repositories I came across i
   <img src="https://img.shields.io/badge/.NET%20Aspire-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Aspire" />
 </p>
 
-### 🚀 Featured Projects
+---
+## 🚀 Featured Projects
 
 ### [**Visualize Object Orientated Programming — Understand Objects**](https://github.com/BlueShirtStudios/BattleShip_Library)
 > **Stack: C#, DotNet, WPF, XAML, Microsoft Graph Library.**  
